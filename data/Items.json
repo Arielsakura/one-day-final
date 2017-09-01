@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"从书架里面找到的小钥匙，看来好像是能打开什么的样\n子。","effects":[],"hitType":0,"iconIndex":195,"itypeId":1,"name":"钥匙","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"上面画着方格的纸条，有点奇怪。","effects":[],"hitType":0,"iconIndex":191,"itypeId":1,"name":"纸条","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"一种碳酸饮料。","effects":[],"hitType":0,"iconIndex":275,"itypeId":1,"name":"可乐","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"番茄味的。","effects":[],"hitType":0,"iconIndex":275,"itypeId":1,"name":"果汁","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"某个知名牌子的。","effects":[],"hitType":0,"iconIndex":275,"itypeId":1,"name":"矿泉水","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":6,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"上面写着《治愈爆破》的字样，是六年前据说根据真实\n事件改编的游戏。","effects":[],"hitType":0,"iconIndex":196,"itypeId":2,"name":"游戏盘","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
